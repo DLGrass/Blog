@@ -22,4 +22,4 @@ slug: links
 comments: false
 ---
 
-海内存知己，天涯若比邻。
+海记忆体知己，天涯若比邻（
