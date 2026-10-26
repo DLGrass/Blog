@@ -2,7 +2,7 @@
 title: 编译 Chromium (仅 Windows)
 description: 电脑寿命 -6h 😭
 date: 2026-10-25
-lastmod: 2026-10-25
+lastmod: 2026-10-26
 slug: compiling-chromium
 image: chromium-about.png
 ---
@@ -81,7 +81,9 @@ image: chromium-about.png
 
 #### Git
 
-这个教程我打算以后拎出来单独写一篇，所以你就先去网上凑合一篇吧（
+什么? 你没安装 Git ? 不会吧......如果这是真的，你不适合编译 Chromium 
+
+如果你执意要编译，那就请自行上网找 Git 安装教程，这里不再赘述
 
 如果你已经安装了 Git ，也请你升级到最新版本
 
