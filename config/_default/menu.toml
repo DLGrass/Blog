@@ -37,3 +37,11 @@
 
     [social.params]
         icon = "brand-bilibili"
+
+[[social]]
+    identifier = "OpenList"
+    name       = "OpenList"
+    url        = "https://pan.ryanincn11.me/"
+
+    [social.params]
+        icon = "cloud"
