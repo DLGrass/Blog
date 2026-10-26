@@ -11,19 +11,21 @@ image: bilup-rip.png
 
 > [!WARNING]
 >
-> 如果您的访问时间晚于2026年末，以下网站可能已经关停了
+> 部分网站已关停，关停的网站前会有`(现已关停)`标识
 
 ## 官网：[www.bilup.org](https://www.bilup.org)
 
 ![](www.bilup.org.png)
 
-## 社区：[com.bilup.org](https://com.bilup.org)
+## 社区(现已关停)：[com.bilup.org](https://com.bilup.org)
 
 ![](com.bilup.org.png)
+注：从 2026.10.1 起，社区页面进入后将自动跳转至**编辑器**页面
 
 ## 编辑器：[com.bilup.org/editor](https://com.bilup.org/editor)
 
 ![](com.bilup.org-editor.png)
+注：**editor.bilup.org** 已弃用
 
 ## 扩展库：[extensions.bilup.org](https://extensions.bilup.org)
 
@@ -37,22 +39,26 @@ image: bilup-rip.png
 
 ![](packager.bilup.org.png)
 
-## 主题商城：[theme.bilup.org](https://theme.bilup.org)
+## Bilup Desktop: [desktop.bilup.org](https://desktop.bilup.org)
+
+图有时间再补，现在先空着（
+
+## 主题商城(现已关停)：[theme.bilup.org](https://theme.bilup.org)
 
 ![](theme.bilup.org.png)
 
-## Bilup Accounts: [accounts.bilup.org](https://accounts.bilup.org)
+## Bilup Accounts(现已关停): [accounts.bilup.org](https://accounts.bilup.org)
 
 ![](accounts.bilup.org.png)
 
-## 云变量服务器：[clouddata.bilup.org](https://clouddata.bilup.org)
+## 云变量服务器(现已关停)：[clouddata.bilup.org](https://clouddata.bilup.org)
 
 ![](clouddata.bilup.org.png)
 
-## Bilup Git: [git.bilup.org](https://git.bilup.org)
+## Bilup Git(现已关停): [git.bilup.org](https://git.bilup.org)
 
 ![](git.bilup.org.png)
 
-## Bilup Wiki: [wiki.bilup.org](https://wiki.bilup.org)
+## Bilup Wiki(现已关停): [wiki.bilup.org](https://wiki.bilup.org)
 
 ![](wiki.bilup.org.png)
