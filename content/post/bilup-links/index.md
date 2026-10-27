@@ -41,7 +41,7 @@ image: bilup-rip.png
 
 ## Bilup Desktop: [desktop.bilup.org](https://desktop.bilup.org)
 
-图有时间再补，现在先空着（
+![](desktop.bilup.org.png)
 
 ## 主题商城(现已关停)：[theme.bilup.org](https://theme.bilup.org)
 
